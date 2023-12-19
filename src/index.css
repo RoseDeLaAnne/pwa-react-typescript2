@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  margin-top: 24px;
+  font-family: "Afacad", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background: linear-gradient(-45deg, #c9acbd, #dcd047, #dcd047, #c9acbd);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+  height: 100vh;
+
+  /* text-transform: uppercase;
+  letter-spacing: .1em; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
